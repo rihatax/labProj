@@ -32,7 +32,7 @@ public class Controller implements Initializable {
     public void displayImage(){
 
         //THis is to see it working
-        
+
 
 
     }
