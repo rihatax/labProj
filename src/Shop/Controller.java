@@ -31,6 +31,9 @@ public class Controller implements Initializable {
     @FXML
     public void displayImage(){
 
+        //THis is to see it working
+        
+
 
     }
 }
